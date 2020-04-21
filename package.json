@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "gatsby develop"
+    "build": "gatsby build"
   },
   "dependencies": {
     "axios": "^0.19.2",
